@@ -1,0 +1,27 @@
+.login{
+    margin-top: 25vh;
+}
+.edit{
+    margin-top: 10vh;
+}
+
+.listPage{
+    justify-content: center;
+    display: flex;
+    align-content: center;
+}
+.deleteButton{
+    margin-top: 10vh;
+}
+
+.mainImg{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.mainText{
+    font-family: roboto;
+    text-align: center;
+    font-size: 22px;
+}
